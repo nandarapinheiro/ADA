@@ -1,1 +1,2 @@
-var numero = 1
+var numero = 1;
+let comando = 2;
